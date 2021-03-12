@@ -1,0 +1,17 @@
+commit 827056433db225740e041d81b88ba58454d66b55 (HEAD -> master, origin/master)
+Author: martinormazabal <martin.ormazabal@usach.cl>
+Date:   Fri Mar 12 18:49:58 2021 -0300
+
+    plantilla de presentación
+
+commit 566960c933543ca62078b75a4c72037a9bfb2348
+Author: martinormazabal <martin.ormazabal@usach.cl>
+Date:   Thu Mar 11 20:55:26 2021 -0300
+
+    esqueleto de la pag. web listo
+
+commit ad7e16707ad709d8e751a3b6c33ac925821dfb77 (origin)
+Author: martinormazabal <martin.ormazabal@usach.cl>
+Date:   Wed Mar 10 10:35:23 2021 -0300
+
+    iniciando el trabajo
